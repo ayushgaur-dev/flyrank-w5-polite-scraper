@@ -1,0 +1,17 @@
+{
+  "start_time": "2026-09-26T18:32:02.188073Z",
+  "end_time": "2026-09-26T18:32:04.608406Z",
+  "duration_seconds": 2.42,
+  "catalogue_pages": 3,
+  "discovered": 60,
+  "unique_urls": 60,
+  "detail_pages_attempted": 60,
+  "pages_fetched": 0,
+  "cache_hits": 63,
+  "valid_records": 60,
+  "invalid_records": 0,
+  "failed_pages": 0,
+  "failed_urls": [],
+  "robots_note": "no robots file found (HTTP 404 on https://books.toscrape.com/robots.txt)",
+  "user_agent": "FlyRankInternship-A9/1.0 (+https://github.com/your-username/flyrank-w5-a9)"
+}
